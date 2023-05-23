@@ -1,5 +1,5 @@
 class Sum{
     public static void main(String args[]){
-    System.out.println("in a sum file");juk
+    System.out.println("in a sum file");jukuyngui
 }
 }
